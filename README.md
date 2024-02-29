@@ -43,9 +43,7 @@ This project is no longer actively maintained, it should still work for the fore
 - [`Credits`](#Credits)
 
 ---
- It's first change
- It's second change
- It's third change
+ 2.1 change
 # Dependencies
 
 There are only 2 required dependencies, however the rest require some configuration before you can replace them.
