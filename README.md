@@ -45,6 +45,7 @@ This project is no longer actively maintained, it should still work for the fore
 ---
  2.1 change
  2.2 change
+ 2.3 change
 # Dependencies
 
 There are only 2 required dependencies, however the rest require some configuration before you can replace them.
